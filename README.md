@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/danielsdeboer/makeable.svg?branch=master)](https://travis-ci.org/danielsdeboer/makeable)
+[![Latest Stable Version](https://poser.pugx.org/aviator/makeable/v/stable)](https://packagist.org/packages/aviator/makeable)
+[![License](https://poser.pugx.org/aviator/makeable/license)](https://packagist.org/packages/aviator/makeable)
+
 ## Overview
 
 This package provides a static constructor interface, and a trait that implements the interface.
