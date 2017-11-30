@@ -1,6 +1,6 @@
 ## Overview
 
-This package provides a static constructor interface and a trait that implements the interface.
+This package provides a static constructor interface, and a trait that implements the interface.
 
 ### Installation
 
@@ -29,7 +29,7 @@ class Something
 }
 ```
 
-Then the class can be constructed using `make(...$args)`:
+Then the class can be instantiated using `Class::make(...$args)`:
 
 ```php
 $instance = Something::make($arg1, $arg2);
